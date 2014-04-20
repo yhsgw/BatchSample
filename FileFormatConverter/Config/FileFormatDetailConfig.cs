@@ -1,5 +1,6 @@
 ﻿using System;
 
+
 namespace FileFromatConverter
 {
 	public class FileFormatDetailConfig
@@ -33,6 +34,8 @@ namespace FileFromatConverter
 			get;
 			set;
 		}
+
+
 	}
 }
 

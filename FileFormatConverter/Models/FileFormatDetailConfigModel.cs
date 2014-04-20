@@ -29,7 +29,7 @@ namespace FileFromatConverter
 					ItemCount = 4,
 					IdItemInfo = @"ID002",
 					IdItemColumn = 2,
-					FileName = @"splitFile2.log"
+					FileName = @"TestFile_00002.log"
 				}
 			);
 

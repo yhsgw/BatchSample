@@ -9,6 +9,7 @@
     <OutputType>Exe</OutputType>
     <RootNamespace>FileFromatConverter</RootNamespace>
     <AssemblyName>FileFromatConverter</AssemblyName>
+    <newfilesearch>OnLoad</newfilesearch>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
     <DebugSymbols>true</DebugSymbols>
@@ -41,6 +42,9 @@
     <Compile Include="Config\FileFormatConfig.cs" />
     <Compile Include="FileFormatConverterApplication.cs" />
     <Compile Include="Models\FileFormatDetailConfigModel.cs" />
+    <Compile Include="FileManipulator.cs" />
+    <Compile Include="Models\ReplaceStringConfigModel.cs" />
+    <Compile Include="Config\ReplaceStringConfig.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
   <ItemGroup>
