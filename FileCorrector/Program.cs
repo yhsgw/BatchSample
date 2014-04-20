@@ -1,4 +1,5 @@
 ﻿using System;
+using BatchFramework;
 
 namespace FileCorrector
 {
@@ -6,7 +7,9 @@ namespace FileCorrector
 	{
 		public static void Main (string[] args)
 		{
-			Console.WriteLine ("Hello World!");
+			var app = new FileCorrectorApplication ();
+
+			System.Console.WriteLine(app.Execute ());
 		}
 	}
 }
