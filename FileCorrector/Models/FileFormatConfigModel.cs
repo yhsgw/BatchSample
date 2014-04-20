@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace FileCorrector
+namespace FileFromatConverter
 {
 	public class FileFormatConfigModel
 	{

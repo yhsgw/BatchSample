@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace FileCorrector
+namespace FileFromatConverter
 {
 	public class FileFormatDetailConfig
 	{
