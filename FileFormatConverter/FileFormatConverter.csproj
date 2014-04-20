@@ -7,8 +7,8 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>{9405F660-826B-45A4-8E8D-A2A24A0A6243}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>FileCorrector</RootNamespace>
-    <AssemblyName>FileCorrector</AssemblyName>
+    <RootNamespace>FileFromatConverter</RootNamespace>
+    <AssemblyName>FileFromatConverter</AssemblyName>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
     <DebugSymbols>true</DebugSymbols>
@@ -40,6 +40,7 @@
     <Compile Include="Config\FileFormatDetailConfig.cs" />
     <Compile Include="Config\FileFormatConfig.cs" />
     <Compile Include="FileFormatConverterApplication.cs" />
+    <Compile Include="Models\FileFormatDetailConfigModel.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
   <ItemGroup>

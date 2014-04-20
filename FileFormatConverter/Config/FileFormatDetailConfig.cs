@@ -19,12 +19,17 @@ namespace FileFromatConverter
 			set;
 		}
 
-		public string IditemInfo {
+		public string IdItemInfo {
 			get;
 			set;
 		}
 
 		public int IdItemColumn {
+			get;
+			set;
+		}
+
+		public string FileName {
 			get;
 			set;
 		}
