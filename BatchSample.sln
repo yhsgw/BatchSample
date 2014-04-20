@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileFormatConverter", "FileCorrector\FileFormatConverter.csproj", "{9405F660-826B-45A4-8E8D-A2A24A0A6243}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BatchFramework", "BatchFramework\BatchFramework.csproj", "{1C2C3472-B91F-4664-A056-D3D22EF0FB39}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileFormatConverter", "FileFormatConverter\FileFormatConverter.csproj", "{9405F660-826B-45A4-8E8D-A2A24A0A6243}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +21,6 @@ Global
 		{9405F660-826B-45A4-8E8D-A2A24A0A6243}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(MonoDevelopProperties) = preSolution
-		StartupItem = FileCorrector\FileFormatConverter.csproj
+		StartupItem = BatchFramework\BatchFramework.csproj
 	EndGlobalSection
 EndGlobal
