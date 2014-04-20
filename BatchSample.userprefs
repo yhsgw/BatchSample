@@ -1,8 +1,10 @@
 ﻿<Properties GitUserInfo="UsingGIT">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="BI/Program.cs">
+  <MonoDevelop.Ide.Workbench>
     <Files>
-      <File FileName="BI/Program.cs" Line="1" Column="1" />
+      <File FileName="FileCorrector/FileCorrectorApplication.cs" Line="57" Column="35" />
+      <File FileName="BatchFramework/Application.cs" Line="27" Column="1" />
+      <File FileName="FileCorrector/Program.cs" Line="13" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

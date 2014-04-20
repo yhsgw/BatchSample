@@ -1,0 +1,5 @@
+/Users/Yohei/Projects/BI/BatchFramework/obj/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/Users/Yohei/Projects/BI/BatchFramework/bin/Debug/BatchFramework.dll.mdb
+/Users/Yohei/Projects/BI/BatchFramework/bin/Debug/BatchFramework.dll
+/Users/Yohei/Projects/BI/BatchFramework/obj/Debug/BatchFramework.dll
+/Users/Yohei/Projects/BI/BatchFramework/obj/Debug/BatchFramework.dll.mdb
